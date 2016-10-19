@@ -1,0 +1,10 @@
+{
+  "name": "German Proverbs NewTab",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Show random german proverb in newtab",
+  "homepage_url": "http://extensionizr.com",
+  "chrome_url_overrides": {
+    "newtab": "override/override.html"
+  }
+}
