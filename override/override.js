@@ -294,5 +294,3 @@ const quotes = [
 ]
 
 document.getElementById('q').innerText = quotes[Math.floor(Math.random() * quotes.length)]
-
-console.log(	'Wärme bringt Leben, Kälte Tod')
